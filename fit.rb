@@ -2,7 +2,7 @@ class Fit < Formula
   desc "Terminal-based merge conflict resolver with three-pane TUI interface"
   homepage "https://github.com/FortranGoingOnForty/fit"
   url "https://github.com/FortranGoingOnForty/fit/archive/refs/tags/v0.1.0.tar.gz"
-  sha256 "af195c90471bcf5d3a515b982130d10daed2034c8165ac0dd07f5492ac5a8922"
+  sha256 "b9052fa5be652f395163aaa5f4f6927e535ab4321ed35c88c7d5cb0bdc0be951"
   license "MIT"
   head "https://github.com/FortranGoingOnForty/fit.git", branch: "trunk"
 
